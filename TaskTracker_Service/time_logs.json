@@ -1,0 +1,32 @@
+[
+  {
+    "session_id": "session_T001_20260302030702",
+    "task_id": "T001",
+    "task_name": "Study for midterm",
+    "start_time": "2026-03-02T08:07:02.091586+00:00",
+    "stop_time": "2026-03-02T08:07:06.106879+00:00",
+    "elapsed_seconds": 4,
+    "elapsed_minutes": 0.07,
+    "duration_readable": "4s"
+  },
+  {
+    "session_id": "session_T002_20260302030709",
+    "task_id": "T002",
+    "task_name": "Review notes",
+    "start_time": "2026-03-02T08:07:09.123957+00:00",
+    "stop_time": "2026-03-02T08:07:12.161102+00:00",
+    "elapsed_seconds": 3,
+    "elapsed_minutes": 0.05,
+    "duration_readable": "3s"
+  },
+  {
+    "session_id": "session_T004_20260302030718",
+    "task_id": "T004",
+    "task_name": "Write report",
+    "start_time": "2026-03-02T08:07:18.200047+00:00",
+    "stop_time": "2026-03-02T08:07:21.222495+00:00",
+    "elapsed_seconds": 3,
+    "elapsed_minutes": 0.05,
+    "duration_readable": "3s"
+  }
+]

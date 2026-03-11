@@ -1,0 +1,6 @@
+{
+  "request_id": "t003_stop",
+  "status": "error",
+  "error_message": "No active timer found for task_id: FAKE_TASK_999. Start a timer first.",
+  "timestamp": "2026-03-02T08:07:15.186609+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "request_id": "t004_stop",
+  "status": "timer_stopped",
+  "task_id": "T004",
+  "task_name": "Write report",
+  "session_id": "session_T004_20260302030718",
+  "start_time": "2026-03-02T08:07:18.200047+00:00",
+  "stop_time": "2026-03-02T08:07:21.222495+00:00",
+  "elapsed_seconds": 3,
+  "elapsed_minutes": 0.05,
+  "duration_readable": "3s",
+  "timestamp": "2026-03-02T08:07:21.240282+00:00"
+}

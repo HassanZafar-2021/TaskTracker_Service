@@ -1,0 +1,6 @@
+{
+  "request_id": "t002_start2",
+  "status": "error",
+  "error_message": "Timer already running for task_id: T002. Stop it first.",
+  "timestamp": "2026-03-02T08:07:11.149020+00:00"
+}

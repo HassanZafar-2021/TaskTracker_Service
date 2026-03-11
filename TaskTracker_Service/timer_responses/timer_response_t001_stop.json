@@ -1,0 +1,13 @@
+{
+  "request_id": "t001_stop",
+  "status": "timer_stopped",
+  "task_id": "T001",
+  "task_name": "Study for midterm",
+  "session_id": "session_T001_20260302030702",
+  "start_time": "2026-03-02T08:07:02.091586+00:00",
+  "stop_time": "2026-03-02T08:07:06.106879+00:00",
+  "elapsed_seconds": 4,
+  "elapsed_minutes": 0.07,
+  "duration_readable": "4s",
+  "timestamp": "2026-03-02T08:07:06.107923+00:00"
+}
